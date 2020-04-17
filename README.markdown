@@ -122,3 +122,4 @@ The value parameter is vulnerable.
 * Weak username/password  
 https://localhost/admin/login.php  
 There is a default username/password combination of admin/admin.
+kjahskdasydiua
